@@ -1,0 +1,12 @@
+com\frt\utility\DocumentPDF.class
+com\frt\utility\DummyFactura.class
+com\frt\model\ComeBack.class
+com\frt\utility\DummyFirma.class
+com\frt\model\InvoiceResponse.class
+com\frt\invoices\InvoicesApplication.class
+com\frt\model\Note.class
+com\frt\utility\Mail$2.class
+com\frt\invoices\InvoiceController.class
+com\frt\utility\Mail$1.class
+com\frt\utility\Mail.class
+com\frt\model\Invoice.class
